@@ -12,6 +12,7 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 3. Data cleaning and preparation.
 <img width="1021" alt="Screenshot 2024-08-06 at 16 59 24" src="https://github.com/user-attachments/assets/05d63d3d-926e-4767-90db-015c788f074c">
 
+<img width="1022" alt="Screenshot 2024-08-06 at 17 01 38" src="https://github.com/user-attachments/assets/218bc01e-fb1b-478f-ae71-d485d62f70cc">
 
 4. Import Count Vectorizer and cosine similarity from Scikit-learn.
 6. Use count vectorizer to extract important features: In our case, the genre and title are the features being extracted
