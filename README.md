@@ -10,7 +10,8 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 <img width="894" alt="Screenshot 2024-08-06 at 16 15 12" src="https://github.com/user-attachments/assets/eb6ece77-facb-4fbd-bb2b-8c4f3d1de2bc">
 
 
-### Data cleaning - Check for any null values.
+### Data cleaning - 
+#### Check for any null values.
 <img width="904" alt="Screenshot 2024-08-06 at 16 59 24 copy" src="https://github.com/user-attachments/assets/aea4b37c-b0f1-4618-8321-bf94be7c08e5">
 
 ### Data preparation - Feature engineering
