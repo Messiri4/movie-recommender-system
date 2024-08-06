@@ -3,14 +3,14 @@
 Hello and welcome to the Movie Recommender System App! This app uses Python, Numpy, Pandas, Matplotlib, and Seaborn frameworks. Users can have personalized movies recommended to them based on a film they previously liked. 
 
 ## Steps to run the app using Google Colab
-1. Import Pandas, Numpy, Matplotlib, and Seaborn frameworks.
+### Import Pandas, Numpy, Matplotlib, and Seaborn frameworks.
 <img width="894" alt="Screenshot 2024-08-06 at 16 12 43" src="https://github.com/user-attachments/assets/583571bc-656f-4bdc-8814-fe1c058a0c28">
 
-2. Import movies csv file.
+### Import movies csv file.
 <img width="894" alt="Screenshot 2024-08-06 at 16 15 12" src="https://github.com/user-attachments/assets/eb6ece77-facb-4fbd-bb2b-8c4f3d1de2bc">
 
 
-3. Data cleaning and preparation.
+### Data cleaning and preparation - Check for any null values.
 <img width="1021" alt="Screenshot 2024-08-06 at 16 59 24" src="https://github.com/user-attachments/assets/05d63d3d-926e-4767-90db-015c788f074c">
 
 <img width="1022" alt="Screenshot 2024-08-06 at 17 01 38" src="https://github.com/user-attachments/assets/218bc01e-fb1b-478f-ae71-d485d62f70cc">
