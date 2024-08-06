@@ -26,4 +26,5 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 <img width="895" alt="Screenshot 2024-08-06 at 23 22 49" src="https://github.com/user-attachments/assets/a46cc684-8c64-49dc-93d0-dffb140421bc">
 
 
-9. Display the first 10 movies similar to Jumanji
+#### Display the first 10 movies similar to Jumanji
+<img width="910" alt="Screenshot 2024-08-07 at 00 42 45" src="https://github.com/user-attachments/assets/55417c5b-70ab-45f7-8761-7e17e8809369">
