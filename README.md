@@ -6,5 +6,5 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 1. Import Pandas, Numpy, Matplotlib, and Seaborn frameworks.
 2. Import movies csv file.
 3. Data cleaning and preparation.
-4. Import Count Vectorizer from Scikit-learn.
+4. Import Count Vectorizer and cosine similarity from Scikit-learn.
 5.
