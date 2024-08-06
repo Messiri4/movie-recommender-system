@@ -10,7 +10,10 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 <img width="1023" alt="Screenshot 2024-08-06 at 16 15 12" src="https://github.com/user-attachments/assets/f33eb1ba-0edb-4d51-9bf3-3fd4f0d3e277">
 
 3. Data cleaning and preparation.
-5. Import Count Vectorizer and cosine similarity from Scikit-learn.
+<img width="1021" alt="Screenshot 2024-08-06 at 16 59 24" src="https://github.com/user-attachments/assets/05d63d3d-926e-4767-90db-015c788f074c">
+
+
+4. Import Count Vectorizer and cosine similarity from Scikit-learn.
 6. Use count vectorizer to extract important features: In our case, the genre and title are the features being extracted
 7. Use the cosine similarity library to get the similarity between the movies in our database.
 8. Display the first 10 movies similar to Jumanji
