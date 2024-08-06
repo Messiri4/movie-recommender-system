@@ -7,5 +7,4 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 2. Import movies csv file.
 3. Data cleaning and preparation.
 4. Import Count Vectorizer from Scikit-learn.
-   Count Vectorizer: This is a feature extraction model
-   
+5.
