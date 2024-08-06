@@ -7,7 +7,9 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 <img width="1024" alt="Screenshot 2024-08-06 at 16 12 43" src="https://github.com/user-attachments/assets/8bb11361-348c-438e-a866-d7dbe0fd43ec">
 
 2. Import movies csv file.
-4. Data cleaning and preparation.
+<img width="1023" alt="Screenshot 2024-08-06 at 16 15 12" src="https://github.com/user-attachments/assets/f33eb1ba-0edb-4d51-9bf3-3fd4f0d3e277">
+
+3. Data cleaning and preparation.
 5. Import Count Vectorizer and cosine similarity from Scikit-learn.
 6. Use count vectorizer to extract important features: In our case, the genre and title are the features being extracted
 7. Use the cosine similarity library to get the similarity between the movies in our database.
