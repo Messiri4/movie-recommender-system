@@ -16,6 +16,7 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 
 #### Feature engineering
 <img width="894" alt="Screenshot 2024-08-06 at 16 59 24" src="https://github.com/user-attachments/assets/e0570c86-336b-42dd-82e3-00a2ec7054b7">
+<img width="895" alt="Screenshot 2024-08-06 at 17 01 38" src="https://github.com/user-attachments/assets/4177af8d-c1f1-4bf3-bdd5-97ee0ac3b481">
 
 
 4. Import Count Vectorizer and cosine similarity from Scikit-learn.
