@@ -7,7 +7,8 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 <img width="894" alt="Screenshot 2024-08-06 at 16 12 43" src="https://github.com/user-attachments/assets/583571bc-656f-4bdc-8814-fe1c058a0c28">
 
 2. Import movies csv file.
-<img width="1023" alt="Screenshot 2024-08-06 at 16 15 12" src="https://github.com/user-attachments/assets/f33eb1ba-0edb-4d51-9bf3-3fd4f0d3e277">
+<img width="894" alt="Screenshot 2024-08-06 at 16 15 12" src="https://github.com/user-attachments/assets/eb6ece77-facb-4fbd-bb2b-8c4f3d1de2bc">
+
 
 3. Data cleaning and preparation.
 <img width="1021" alt="Screenshot 2024-08-06 at 16 59 24" src="https://github.com/user-attachments/assets/05d63d3d-926e-4767-90db-015c788f074c">
