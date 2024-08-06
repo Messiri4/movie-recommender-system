@@ -4,7 +4,7 @@ Hello and welcome to the Movie Recommender System App! This app uses Python, Num
 
 ## Steps to run the app using Google Colab
 1. Import Pandas, Numpy, Matplotlib, and Seaborn frameworks.
-<img width="1024" alt="Screenshot 2024-08-06 at 16 12 43" src="https://github.com/user-attachments/assets/8bb11361-348c-438e-a866-d7dbe0fd43ec">
+<img width="894" alt="Screenshot 2024-08-06 at 16 12 43" src="https://github.com/user-attachments/assets/583571bc-656f-4bdc-8814-fe1c058a0c28">
 
 2. Import movies csv file.
 <img width="1023" alt="Screenshot 2024-08-06 at 16 15 12" src="https://github.com/user-attachments/assets/f33eb1ba-0edb-4d51-9bf3-3fd4f0d3e277">
